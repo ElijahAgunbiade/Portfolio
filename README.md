@@ -1,7 +1,7 @@
 
 # Aspiring Data Analyst
 
-### Transitioning from a career in the Inventory Management and seeking a full-time role in the field of data analytics. Took a company from mass ordering and little sale with around 35% overstocking to an efficient supply position for all stocks in demand through Inventory analysis, leading to about 10% overstocking. 
+#### Transitioning from a career in the Inventory Management and seeking a full-time role in the field of data analytics. Took a company from mass ordering and little sale with around 35% overstocking to an efficient supply position for all stocks in demand through Inventory analysis, leading to about 10% overstocking. 
 #### Technical Skills: Python, SQL, Tableau, Spreadsheet, Statistics, Machine Learning, and Modeling
 
 ## Projects
@@ -24,7 +24,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Education
-[Google ADVANCED Data Analytics Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
-Google Business Intelligence Professional Certificate- Currently Attending
-Blinn College - Currently Enrolled
+-[Google ADVANCED Data Analytics Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
+-Google Business Intelligence Professional Certificate- Currently Attending
+-Blinn College - Currently Enrolled
 

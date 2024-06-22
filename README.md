@@ -2,7 +2,7 @@
 # Aspiring Data Analyst
 
 #### Transitioning from a career in the Inventory Management and seeking a full-time role in the field of data analytics. Took a company from mass ordering and little sale with around 35% overstocking to an efficient supply position for all stocks in demand through Inventory analysis, leading to about 10% overstocking. 
-#### Technical Skills: Python, SQL, Tableau, Spreadsheet, Statistics, Machine Learning, and Modeling
+### Technical Skills: Python, SQL, Tableau, Spreadsheet, Statistics, Machine Learning, and Modeling
 
 ## Projects
 ### Factors impacting Employee Retention Rate Discovery with Random Forest Learning Model

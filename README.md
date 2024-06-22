@@ -2,7 +2,7 @@
 # Aspiring Data Analyst
 
 #### Transitioning from a career in the Inventory Management and seeking a full-time role in the field of data analytics. Took a company from mass ordering and little sale with around 35% overstocking to an efficient supply position for all stocks in demand through Inventory analysis, leading to about 10% overstocking. 
-### Technical Skills: Python, SQL, Tableau, Spreadsheet, Statistics, Machine Learning, and Modeling
+#### Technical Skills: Python, SQL, Tableau, Spreadsheet, Statistics, Machine Learning, and Modeling
 
 ## Projects
 ### Factors impacting Employee Retention Rate Discovery with Random Forest Learning Model
@@ -15,12 +15,12 @@ Developed a machine learning model to identify qualities of employees who are mo
 ### Analyzing qualities that makes good Taxi tippers with XGB Classifier
 [Publication](https://elijahagunbiade.github.io/Machine-LearningAutomatidata/)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used Python to create a classifier that identifies if a customer would be a good tipper for a Taxi Cab driver. Analyzing distance, cost of fares, and amount of passengers, we found the biggest impact on tipping was the distance and cost of fare dollar for dollar. Creating a machine learning model for predicting which customers will leave good tips, then creating an algorithm allows us to provide Taxi drivers with an extra tool to maximize their revenue on the road. 
 
 ## Work Experience
 **Inventory Management and Data Entry (_December 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Redeveloped ordering inventory to minimize extensive holds on products with Data Analysis leading to an over 50% reduction in over stocking
+- Maintained track records of drivers' activity while implementing proficiency methods to cut down on time required for task. 
 
 
 ## Education

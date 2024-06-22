@@ -30,7 +30,7 @@ Used Python to create a classifier that identifies if a customer would be a good
 
 
 ## Education
-- [Google ADVANCED Data Analytics Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
+- [Google ADVANCED Data Analytics Professional Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
 - Google Business Intelligence Professional Certificate- Currently Attending
 - Blinn College - Currently Enrolled
 

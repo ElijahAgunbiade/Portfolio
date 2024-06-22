@@ -26,7 +26,7 @@ Used Python to create a classifier that identifies if a customer would be a good
 
 **Fiber Sales Agent (_December 2021 - December 2023_)**
 - Recognized to break the sale record for a first-time agent's first month sale number in the first month. 
-- Increased district sale by 30%.  
+- Increased district fiber sale by 30% by analyzing and reaching out to neighborhoods with the worst overrall internet package, customer experience, and product experience.
 
 
 ## Education

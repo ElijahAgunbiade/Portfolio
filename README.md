@@ -8,7 +8,7 @@
 ### Factors impacting Employee Retention Rate Discovery with Random Forest Learning Model
 [Publication](https://elijahagunbiade.github.io/HR-Salifort-Motors/)
 
-Developed a machine learning model to identify qualities of employees who are most likely to leave the company using **Python**. This data-driven approach led to better understandings of why employees are leaving the company at such rate and what factors to consider to prevent it. The proposed method provides a learning model with the ability to detect employees in the company with good potential of leaving the company with an 86% F1 score, while also providing insights on how to prevent such situation in the first place.  
+Developed a machine learning model to identify qualities of employees who are most likely to leave the company using Python. This data-driven approach led to better understandings of why employees are leaving the company at such rate and what factors to consider to prevent it. The proposed method provides a learning model with the ability to detect employees in the company with good potential of leaving the company with an 86% F1 score, while also providing insights on how to prevent such situation in the first place.  
 
 ![Random forest importance](https://github.com/ElijahAgunbiade/Portfolio/assets/173221971/2dd2554d-88e1-48fd-8f84-829e2a77b3cc)
 

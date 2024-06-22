@@ -17,10 +17,16 @@ Developed a machine learning model to identify qualities of employees who are mo
 
 Used Python to create a classifier that identifies if a customer would be a good tipper for a Taxi Cab driver. Analyzing distance, cost of fares, and amount of passengers, we found the biggest impact on tipping was the distance and cost of fare dollar for dollar. Creating a machine learning model for predicting which customers will leave good tips, then creating an algorithm allows us to provide Taxi drivers with an extra tool to maximize their revenue on the road. 
 
+![graph](https://github.com/ElijahAgunbiade/Portfolio/assets/173221971/bfdf9998-cd8b-40fd-998d-676a8339a08a)
+
 ## Work Experience
-**Inventory Management and Data Entry (_December 2022 - Present_)**
+**Inventory Management and Data Entry (_December 2023 - Present_)**
 - Redeveloped ordering inventory to minimize extensive holds on products with Data Analysis leading to an over 50% reduction in over stocking
-- Maintained track records of drivers' activity while implementing proficiency methods to cut down on time required for task. 
+- Maintained track records of drivers' activity while implementing proficiency methods to cut down on time required for task.
+
+**Fiber Sales Agent (_December 2021 - December 2023_)**
+- Recognized to break the sale record for a first-time agent's first month sale number in the first month. 
+- Increased district sale by 30%.  
 
 
 ## Education

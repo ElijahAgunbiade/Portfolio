@@ -24,7 +24,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Education
--[Google ADVANCED Data Analytics Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
--Google Business Intelligence Professional Certificate- Currently Attending
--Blinn College - Currently Enrolled
+- [Google ADVANCED Data Analytics Certificate](https://github.com/ElijahAgunbiade/Portfolio/blob/main/Coursera.pdf)- 2024
+- Google Business Intelligence Professional Certificate- Currently Attending
+- Blinn College - Currently Enrolled
 

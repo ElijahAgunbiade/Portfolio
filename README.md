@@ -8,7 +8,7 @@
 ### Factors impacting Employee Retention Rate Discovery with Random Forest Learning Model
 [Publication](https://elijahagunbiade.github.io/HR-Salifort-Motors/)
 
-Developed a machine learning model to identify qualities of employees who are most likely to leave the company using Python. This data-driven approach led to better understandings of why employees are leaving the company at such rate and what factors to consider to prevent it. The proposed method provides a learning model with the ability to detect employees in the company with good potential of leaving the company with an 86% F1 score, while also providing insights on how to prevent such situation in the first place.  
+Developed a machine learning model to identify qualities of employees who are most likely to leave the company using Python. This data-driven approach led to better understanding of why employees are leaving the company at such a rate and what factors to consider to prevent it. The proposed method provides a learning model with the ability to detect employees in the company with good potential of leaving the company with an 86% F1 score, while also providing insights on how to prevent such a situation in the first place.  
 
 ![Random forest importance](https://github.com/ElijahAgunbiade/Portfolio/assets/173221971/2dd2554d-88e1-48fd-8f84-829e2a77b3cc)
 
@@ -20,11 +20,11 @@ Used Python to create a classifier that identifies if a customer would be a good
 ![graph](https://github.com/ElijahAgunbiade/Portfolio/assets/173221971/bfdf9998-cd8b-40fd-998d-676a8339a08a)
 
 ## Work Experience
-**Inventory Management and Data Entry (_December 2023 - Present_)**
+**Inventory Management and Data Entry / Woodson Lumber (_December 2023 - Present_)**
 - Redeveloped ordering inventory to minimize extensive holds on products with Data Analysis leading to an over 50% reduction in over stocking
-- Maintained track records of drivers' activity while implementing proficiency methods to cut down on time required for task.
+- Maintained track records of drivers' activity while implementing proficiency methods to cut down on time required for tasks.
 
-**Fiber Sales Agent (_December 2021 - December 2023_)**
+**Fiber Sales Agent / MetroNet (_December 2021 - December 2023_)**
 - Recognized to break the sale record for a first-time agent's first month sale number in the first month. 
 - Increased district fiber sale by 30% by analyzing and reaching out to neighborhoods with the worst overrall internet package, customer experience, and product experience.
 
